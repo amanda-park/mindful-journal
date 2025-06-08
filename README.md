@@ -1,2 +1,2 @@
 # mindful-journal
-Vibecode LLM used as both a journaling app and a way to identify cognitve distortions
+Streamlit app in which you answer journaling prompts and through an Ollama backend an LLM identifies potential cognitive distortions. 
